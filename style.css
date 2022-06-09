@@ -1,0 +1,71 @@
+.section_1,.section_3{
+  background-color: #F4BFBF;
+  text-align: center;
+  padding-bottom: 5%;
+}
+.div_1{
+  background-color: #E05D5D;
+  padding: 0% 5%;
+}
+.img_1{
+  width: 35%;
+}
+h1{
+  font-family: 'Wellfleet', cursive;
+}
+h4{
+  font-family: 'Courgette', cursive;
+}
+h1,h4{
+  color: #E05D5D;
+}
+.quote_div h1{
+  padding: 5% 15%;
+  line-height: 1.5;
+}
+.myname{
+  margin-top: 40px;
+}
+.section_3{
+  padding: 5% 0%;
+}
+.my_qualification{
+  margin-top: 20px;
+}
+.Skills{
+  background-color: #FFF6EA;
+  padding: 5% 10%;
+}
+.col-lg-6{
+  text-align: center;
+}
+.sec_2_big_heading{
+  text-align: center;
+  font-size: 4rem;
+  margin-bottom:10%;
+}
+.row{
+  background-color: #FFEEEE;
+}
+p{
+  font-family: 'Courgette', cursive;
+  color:#E05D5D;
+}
+.s1c2,.s2c2,.s3c2{
+  margin-top: 7%;
+}
+.s1c1,.s2c1,.s3c1{
+  padding: 5% 0%;
+}
+.s1c2p,.s2c2p,.s3c2p{
+  margin-top: 8%;
+  padding: 0% 14%;
+}
+.skills_div_2,.skills_div_3{
+  margin-top: 10%;
+}
+.img_mail{
+  width: 5%;
+  padding-top: 3.5%;
+  padding-bottom: 2%;
+}

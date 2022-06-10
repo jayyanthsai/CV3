@@ -1,0 +1,29 @@
+body{
+  background-color:  #A7C4BC;
+  line-height: 1.5;
+  text-align: center;
+  padding: 5% 5%;
+}
+.About_1{
+  background-color: #DFEEEA;
+  padding: 2% 11%;
+  padding-bottom: 5%;
+}
+h3{
+    font-family: 'Neucha', cursive;
+    color: #2F5D62;
+    margin-bottom: 4%;
+    line-height: 2;
+}
+h1{
+  font-family: 'Fredericka the Great', cursive;
+  color: #5E8B7E;
+  margin-top: 10%;
+}
+.img_1{
+  width: 10%;
+  margin-top: 5%;
+}
+.img_2{
+  width: 10%;
+}
